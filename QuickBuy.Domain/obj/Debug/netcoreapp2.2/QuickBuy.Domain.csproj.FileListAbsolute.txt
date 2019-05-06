@@ -1,0 +1,8 @@
+D:\Z\DESENVOLVIMENTO\REPOSITORIOS\NET CORE\QuickBuy\QuickBuy.Domain\bin\Debug\netcoreapp2.2\QuickBuy.Domain.deps.json
+D:\Z\DESENVOLVIMENTO\REPOSITORIOS\NET CORE\QuickBuy\QuickBuy.Domain\bin\Debug\netcoreapp2.2\QuickBuy.Domain.dll
+D:\Z\DESENVOLVIMENTO\REPOSITORIOS\NET CORE\QuickBuy\QuickBuy.Domain\bin\Debug\netcoreapp2.2\QuickBuy.Domain.pdb
+D:\Z\DESENVOLVIMENTO\REPOSITORIOS\NET CORE\QuickBuy\QuickBuy.Domain\obj\Debug\netcoreapp2.2\QuickBuy.Domain.csproj.CoreCompileInputs.cache
+D:\Z\DESENVOLVIMENTO\REPOSITORIOS\NET CORE\QuickBuy\QuickBuy.Domain\obj\Debug\netcoreapp2.2\QuickBuy.Domain.AssemblyInfoInputs.cache
+D:\Z\DESENVOLVIMENTO\REPOSITORIOS\NET CORE\QuickBuy\QuickBuy.Domain\obj\Debug\netcoreapp2.2\QuickBuy.Domain.AssemblyInfo.cs
+D:\Z\DESENVOLVIMENTO\REPOSITORIOS\NET CORE\QuickBuy\QuickBuy.Domain\obj\Debug\netcoreapp2.2\QuickBuy.Domain.dll
+D:\Z\DESENVOLVIMENTO\REPOSITORIOS\NET CORE\QuickBuy\QuickBuy.Domain\obj\Debug\netcoreapp2.2\QuickBuy.Domain.pdb

@@ -1,0 +1,9 @@
+D:\Z\DESENVOLVIMENTO\REPOSITORIOS\NET CORE\QuickBuy\QuickBuy.Reppository\bin\Debug\netcoreapp2.2\QuickBuy.Reppository.deps.json
+D:\Z\DESENVOLVIMENTO\REPOSITORIOS\NET CORE\QuickBuy\QuickBuy.Reppository\bin\Debug\netcoreapp2.2\QuickBuy.Reppository.dll
+D:\Z\DESENVOLVIMENTO\REPOSITORIOS\NET CORE\QuickBuy\QuickBuy.Reppository\bin\Debug\netcoreapp2.2\QuickBuy.Reppository.pdb
+D:\Z\DESENVOLVIMENTO\REPOSITORIOS\NET CORE\QuickBuy\QuickBuy.Reppository\obj\Debug\netcoreapp2.2\QuickBuy.Reppository.csprojAssemblyReference.cache
+D:\Z\DESENVOLVIMENTO\REPOSITORIOS\NET CORE\QuickBuy\QuickBuy.Reppository\obj\Debug\netcoreapp2.2\QuickBuy.Reppository.csproj.CoreCompileInputs.cache
+D:\Z\DESENVOLVIMENTO\REPOSITORIOS\NET CORE\QuickBuy\QuickBuy.Reppository\obj\Debug\netcoreapp2.2\QuickBuy.Reppository.AssemblyInfoInputs.cache
+D:\Z\DESENVOLVIMENTO\REPOSITORIOS\NET CORE\QuickBuy\QuickBuy.Reppository\obj\Debug\netcoreapp2.2\QuickBuy.Reppository.AssemblyInfo.cs
+D:\Z\DESENVOLVIMENTO\REPOSITORIOS\NET CORE\QuickBuy\QuickBuy.Reppository\obj\Debug\netcoreapp2.2\QuickBuy.Reppository.dll
+D:\Z\DESENVOLVIMENTO\REPOSITORIOS\NET CORE\QuickBuy\QuickBuy.Reppository\obj\Debug\netcoreapp2.2\QuickBuy.Reppository.pdb
